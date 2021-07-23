@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @ablake1020
+- 👋 Hi, I’m Aaron!
 - 👀 I’m interested in front end development and learning to code
-- 🌱 I’m currently learning HTML, CSS, & soon, JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning HTML, CSS, Sass & soon, JavaScript
 
 <!---
 ablake1020/ablake1020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
